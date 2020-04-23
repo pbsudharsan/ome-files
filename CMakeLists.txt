@@ -38,7 +38,7 @@ cmake_minimum_required(VERSION 3.8.0)
 
 # Default policy is from 3.4.0
 cmake_policy(VERSION 3.4.0)
-
+set(CMAKE_CXX_STANDARD 14)
 project(ome-files-build
   VERSION 0.1.0
   LANGUAGES CXX)
