@@ -52,6 +52,4 @@ add_subdirectory(ome-files)
 add_subdirectory(ome-files-view)
 
 # The performance tests currently require Boost, so don't build when using Qt.
-if(TARGET Boost::filesystem)
-  add_subdirectory(ome-files-performance)
-endif()
+add_subdirectory(ome-files-performance)
