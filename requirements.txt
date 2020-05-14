@@ -1,3 +1,6 @@
 numpy
 six
 -e git+https://github.com/pearu/pylibtiff#egg=libtiff
+sphinx
+Genshi
+pybind11
