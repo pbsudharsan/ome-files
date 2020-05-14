@@ -1,24 +1,24 @@
 [submodule "ome-common"]
 	path = ome-common
-	url = https://gitlab.com/codelibre/ome/ome-common-cpp.git
+	url = https://gitlab.com/pbsudharsan/ome-common-cpp
 	branch = master
 [submodule "ome-model"]
 	path = ome-model
-	url = https://gitlab.com/codelibre/ome/ome-model.git
+	url = https://gitlab.com/pbsudharsan/ome-model.git
 	branch = master
 [submodule "ome-files"]
 	path = ome-files
-	url = https://gitlab.com/codelibre/ome/ome-files.git
+	url = https://gitlab.com/pbsudharsan/ome-files-cpp.git
 	branch = master
 [submodule "ome-files-py"]
 	path = ome-files-py
-	url = https://gitlab.com/codelibre/ome/ome-files-py.git
+	url = https://gitlab.com/pbsudharsan/ome-files-py.git
 	branch = master
 [submodule "ome-files-performance"]
 	path = ome-files-performance
-	url = https://gitlab.com/codelibre/ome/ome-files-performance.git
+	url = https://gitlab.com/pbsudharsan/ome-files-performance.git
 	branch = master
 [submodule "ome-files-view"]
 	path = ome-files-view
-	url = https://gitlab.com/codelibre/ome/ome-files-view.git
+	url = https://gitlab.com/pbsudharsan/ome-files-view.git
 	branch = master
